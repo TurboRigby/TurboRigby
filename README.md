@@ -8,6 +8,8 @@ I’ve written questionable amounts of low-level and experimental code so I don�
 
 > It’ll be a bang as long as it’s written in Golang.
 
+![Things I've built](.github/img/projects.png)
+
 ---
 
 ## 🧠 What I Actually Care About
