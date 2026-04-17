@@ -1,3 +1,7 @@
+# Taking an indefinite break from coding right now
+
+---
+
 # Welcome to Controlled Chaos
 
 Hi.  
