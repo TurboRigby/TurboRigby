@@ -8,6 +8,12 @@ I’ve written questionable amounts of low-level and experimental code so I don�
 
 > It’ll be a bang as long as it’s written in Golang.
 
+## Kage — my Xray client
+
+I'm building [Kage](https://github.com/Rigby-Foundation/Kage), an open-source VPN and proxy client with a visual traffic-routing editor. It embeds Xray-core and has downloads for Windows, macOS, Linux, and Android; the iOS build requires signing with the Packet Tunnel entitlement.
+
+[Download Kage](https://github.com/Rigby-Foundation/Kage/releases/latest) · [Report a bug or suggest an improvement](https://github.com/Rigby-Foundation/Kage/issues)
+
 ![Things I've built](.github/img/projects.png)
 
 ---
